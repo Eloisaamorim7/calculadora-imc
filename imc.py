@@ -26,7 +26,7 @@ def main():
     # Solicita ao usuário o peso e altura
     try:
         peso = float(input("Digite o seu peso em kg: "))
-        altura = float(input("Digite a sua altura em metros: "))
+        altura = float(input("Digite sua altura em metros: "))
         
         if peso <= 0 or altura <= 0:
             print("Peso e altura devem ser valores positivos.")
