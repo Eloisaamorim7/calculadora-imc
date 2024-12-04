@@ -10,5 +10,5 @@ Este projeto implementa uma calculadora de **Índice de Massa Corporal (IMC)**, 
 ## Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/calculadora-de-imc.git
+   git clone https://github.com/eloisaamorim7/calculadora-imc.git
    cd calculadora-de-imc
